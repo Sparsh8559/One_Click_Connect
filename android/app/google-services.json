@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669648446261",
+    "project_id": "oneclickconnect-63526",
+    "storage_bucket": "oneclickconnect-63526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669648446261:android:69660d137ab522a7a9627c",
+        "android_client_info": {
+          "package_name": "com.example.oneclick_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu7-sCIBVl55Z6q32xV1xa1H9YJG2RG-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
